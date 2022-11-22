@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package com.atguigu.java.review;
 
 public class ArrayReview {
     public static void main(String[] args) {
