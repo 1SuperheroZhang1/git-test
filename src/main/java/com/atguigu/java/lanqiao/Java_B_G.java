@@ -20,6 +20,7 @@ public class Java_B_G {
     * 【样例输入】： 4
     *               1 3 2 4
     * 【样例输出】：5
+    *  深度优先搜索！！！
     * */
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
