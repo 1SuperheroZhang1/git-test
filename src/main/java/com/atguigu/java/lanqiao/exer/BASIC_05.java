@@ -28,11 +28,12 @@ public class BASIC_05 {
         }
 
         int a=sc.nextInt();
-        for (int i = 1; i <= n ; i++) {
-            if(a==arr[i]){
-                System.out.println(i);
+        for (int i = 0; i < n ; i++) {
+            if(arr[i]==a){
+                System.out.println(i+1);
                 break;
-            }else{
+            }
+            if(i==n-1){
                 System.out.println(-1);
             }
         }
